@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3572A5; 
-  width: 55.296%;
+  width: 55.287%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 30.026%;
+  width: 30.038%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 6.080%;
+  width: 6.079%;
 " class="progress-item"></span><span style="
   background-color: #fcb32c; 
-  width: 4.635%;
+  width: 4.634%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 1.875%;
+  width: 1.874%;
 " class="progress-item"></span><span style="
   background-color: #555555; 
   width: 0.393%;
@@ -155,7 +155,7 @@ div.ellipsis {
   width: 0.348%;
 " class="progress-item"></span><span style="
   background-color: #ff5a03; 
-  width: 0.333%;
+  width: 0.332%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
   width: 0.278%;
@@ -224,7 +224,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">55.30%</span>
+  <span class="percent">55.29%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -240,7 +240,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HTML</span>
-  <span class="percent">30.03%</span>
+  <span class="percent">30.04%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -272,7 +272,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">MDX</span>
-  <span class="percent">4.64%</span>
+  <span class="percent">4.63%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
